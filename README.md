@@ -1,12 +1,8 @@
-# WRO International Final 2025 Future Engineers Links (Top 10)
+# WRO International Final 2025 Future Engineers Links
 
-A simple list of **WRO Future Engineers** teams and their public project pages (GitHub, etc.).  
+A simple list of **WRO Future Engineers** teams and their public project pages.  
 
 - **Source scoreboard**: https://scoring.wro-association.org/en/event/scoring/293
-
----
-
-## WRO Future Engineers – Top 10 Teams (Event 293)
 
 | Rank | Team | Country | Repository | Platform |
 |---:|---|---|---|---|
@@ -20,13 +16,13 @@ A simple list of **WRO Future Engineers** teams and their public project pages (
 | 8 | SQ-391 | Syria | https://github.com/Alhadi1123/SQ-391_WRO_Future_Engineers_2025 | Raspberry Pi 4B |
 | 9 | Ishikawa KOSEN | Japan | https://github.com/UNOsan118/WRO2025_FE_INCT | Raspberry Pi 5 |
 | 10 | QYZYLORDA Flame | Kazakhstan | https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame | LEGO EV3 |
-| 11 | Greenbotics | India | — | Unknown |
+| 11 | Greenbotics | India | https://github.com/Devansh-awat/greenbotics | Raspberry Pi 5 |
 | 12 | shahrood RC | Iran | https://github.com/ShahroodRC/WRO2025-FE-ShahroodRC | LEGO EV3 |
 | 13 | X-UniTech | Malaysia | — | Unknown |
-| 14 | Paraducks | India | — | Unknown |
-| 15 | AZE 44 | Azerbaijan | — | Unknown |
-| 16 | JEEP(BatStateU-IS) | Philippines | — | Unknown |
-| 17 | GAMMA VERSION | Spain | — | Unknown |
+| 14 | Paraducks | India | https://github.com/Tgt123/WRO-Paraducks | Raspberry Pi |
+| 15 | AZE 44 | Azerbaijan | https://github.com/coolboy19521/AZE44 | Raspberry Pi 5 |
+| 16 | JEEP(BatStateU-IS) | Philippines | https://github.com/batstateu-is/2025-BatstateU-IS | Spike PRIME with LMS-ESP32 |
+| 17 | GAMMA VERSION | Spain | https://github.com/qu4Vix/WRO-GammaVersion-2025 | DOIT ESP32 DevKit V1 |
 | 18 | TOPSCHOLAR ENGINEERS | United States of America | — | Unknown |
 | 19 | PANTHERS | Lebanon | — | Unknown |
 | 20 | VizDrive | Panama | — | Unknown |
@@ -39,7 +35,7 @@ A simple list of **WRO Future Engineers** teams and their public project pages (
 | 27 | SUNFLOWER | Thailand | — | Unknown |
 | 28 | HK-Evo1ution | Hong Kong | — | Unknown |
 | 29 | Echo Drift | Bangladesh | — | Unknown |
-| 30 | XLNC Deoxys | Kazakhstan | — | Unknown |
+| 30 | XLNC Deoxys | Kazakhstan | https://github.com/XLNC-Deoxys/WRO-FE25 | LEGO EV3 |
 | 31 | KE_NS WRO | Vietnam | — | Unknown |
 | 32 | F2er | Croatia | — | Unknown |
 | 33 | kyivrobomagic | Ukraine | — | Unknown |
