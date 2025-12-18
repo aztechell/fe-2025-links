@@ -25,7 +25,7 @@ A simple list of **WRO Future Engineers** teams and their public project pages.
 | 17 | GAMMA VERSION | Spain | https://github.com/qu4Vix/WRO-GammaVersion-2025 | DOIT ESP32 DevKit V1 |
 | 18 | TOPSCHOLAR ENGINEERS | United States of America | — | Unknown |
 | 19 | PANTHERS | Lebanon | — | Unknown |
-| 20 | VizDrive | Panama | — | Unknown |
+| 20 | VizDrive | Panama | https://github.com/Vizdrive/VizDrive_WRO2025 | MEGA 2560 Pro |
 | 21 | Carltron | Germany | — | Unknown |
 | 22 | Flawil Beavers | Switzerland | — | Unknown |
 | 23 | NullPointException | South Africa | — | Unknown |
@@ -37,7 +37,7 @@ A simple list of **WRO Future Engineers** teams and their public project pages.
 | 29 | Echo Drift | Bangladesh | — | Unknown |
 | 30 | XLNC Deoxys | Kazakhstan | https://github.com/XLNC-Deoxys/WRO-FE25 | LEGO EV3 |
 | 31 | KE_NS WRO | Vietnam | — | Unknown |
-| 32 | F2er | Croatia | — | Unknown |
+| 32 | F2er | Croatia | https://github.com/F2er-WRO/F2er-WRO-2025-Future-Engineers | fischertechink |
 | 33 | kyivrobomagic | Ukraine | — | Unknown |
 | 34 | Future TO | El Salvador | — | Unknown |
 | 35 | chaBots NERV | Mexico | https://github.com/chaBotsMX/chaBots-NERV-WRO-Future-Engineers-2025 | Raspberry Pi 5 |
@@ -49,7 +49,7 @@ A simple list of **WRO Future Engineers** teams and their public project pages.
 | 41 | TRIOTECH FUSION | Malaysia | — | Unknown |
 | 42 | SJWIS Stallions | Philippines | — | Unknown |
 | 43 | Ruwance | Peru | — | Unknown |
-| 44 | RoboMisk - KSA | Saudi Arabia | — | Unknown |
+| 44 | RoboMisk - KSA | Saudi Arabia | https://github.com/Team-RoboMisk-2611/WRO2025-FutureEngineers-RoboMisk | Raspberry Pi 4B |
 | 45 | mindcraft engineers | Morocco | https://github.com/DexterTaha/WRO-FE-2025-Mindcraft | Raspberry Pi 4B |
 | 46 | Bona Sonority School | China | — | Unknown |
 | 47 | Snoopy | Cambodia | — | Unknown |
@@ -61,7 +61,7 @@ A simple list of **WRO Future Engineers** teams and their public project pages.
 | 53 | NOVA ENGINEERS | Palestine | — | Unknown |
 | 54 | Qatar Masters | Qatar | — | Unknown |
 | 55 | NEXUS DYNAMICS | Ghana | — | Unknown |
-| 56 | Cyberplatano | Dominican Republic | — | Unknown |
+| 56 | Cyberplatano | Dominican Republic | https://github.com/CyberplatanoRD/WRO2025-FE-CyberPlatano | Raspberry Pi 5 |
 | 57 | Galaxy Raiders | Singapore | — | Unknown |
 | 58 | Syntara Team | Costa Rica | — | Unknown |
 | 59 | Cyber Core | Guatemala | — | Unknown |
